@@ -22,3 +22,17 @@
  Then Go to rtmpserver then run `npm start` 
  
  And finally to start react app run `npm start` in twitch/
+
+### Here are screenshoots of my project website
+
+Home Page<br><br>
+<img src="https://github.com/smitgol/TwitchClone/blob/master/screenshot/home_page.png"/>
+
+Create Stream<br><br>
+<img src="https://github.com/smitgol/TwitchClone/blob/master/screenshot/create_stream.png"/>
+
+Stream Detail Page<br><br>
+<img src="https://github.com/smitgol/TwitchClone/blob/master/screenshot/streams.png" />
+
+Put Id from above url to obs studio<br><br>
+<img src="https://github.com/smitgol/TwitchClone/blob/master/screenshot/start_stream.png" />
